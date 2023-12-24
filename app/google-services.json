@@ -1,14 +1,14 @@
 {
   "project_info": {
-    "project_number": "551348845667",
-    "firebase_url": "https://appmuasam-433c6-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "project_id": "appmuasam-433c6",
-    "storage_bucket": "appmuasam-433c6.appspot.com"
+    "project_number": "26075241434",
+    "firebase_url": "https://appmuasam-20166-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "appmuasam-20166",
+    "storage_bucket": "appmuasam-20166.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:551348845667:android:38a787ca99529eb050cc56",
+        "mobilesdk_app_id": "1:26075241434:android:520328f9e2fb964432fee3",
         "android_client_info": {
           "package_name": "com.example.appbanhang"
         }
@@ -16,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB01H-RuZqXmv7JrYaiKHAKxwyAcqq7zIc"
+          "current_key": "AIzaSyCIea26EnVSRLdR43wgrvbnqF_Cx1BajI4"
         }
       ],
       "services": {
